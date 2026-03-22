@@ -1,0 +1,42 @@
+[
+    {
+        "input": "hi",
+        "response": "hello! how are you?"
+    },
+    {
+        "input": "how are you",
+        "response": "i am fine, how about you?"
+    },
+    {
+        "input": "what is your name",
+        "response": "i am your chatbot assistant"
+    },
+    {
+        "input": "i am sad",
+        "response": "i am sorry to hear that, want to talk about it?"
+    },
+    {
+        "input": "i am happy",
+        "response": "that's great to hear!"
+    },
+    {
+        "input": "bye",
+        "response": "goodbye! take care"
+    },
+    {
+        "input": "what are you doing",
+        "response": "i am here to chat with you"
+    },
+    {
+        "input": "can you help me",
+        "response": "of course, tell me what you need"
+    },
+    {
+        "input": "thank you",
+        "response": "you're welcome!"
+    },
+    {
+        "input": "good morning",
+        "response": "good morning! have a nice day"
+    }
+]
